@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="raiz_primitiva/raiz_primitiva.vcxproj" Id="ca014c53-7cf8-4ab1-a6c5-bd65b51b36f0" />
+</Solution>
